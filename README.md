@@ -1,2 +1,2 @@
 # very-basic-resume
-##https://github.com/Sondule/my-basic-resume.git
+https://sondule.github.io/my-basic-resume/
